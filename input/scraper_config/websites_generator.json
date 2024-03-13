@@ -1,0 +1,14 @@
+[
+    {
+        "domain": "https://www.aldiwan.net",
+        "path_pattern": "/poem{0}.html",
+        "start": 25902,
+        "count": 10000
+    },
+    {
+        "domain": "https://poetsgate.com",
+        "path_pattern": "/poem.php?pm={0}",
+        "start": 136788,
+        "count": 100
+    }
+]

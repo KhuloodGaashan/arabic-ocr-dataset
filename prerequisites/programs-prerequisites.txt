@@ -1,0 +1,2 @@
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.100-windows-x64-installer
+https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe
